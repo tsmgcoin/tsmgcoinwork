@@ -16,3 +16,4 @@ tsmg coin total supply 80,000,000 million
 www.tsmgcoin.com
 https://twitter.com/TsmgCoin?s=09.
 https://t.me/TSMGcoin
+http://t.me/tsmgcoin_channel
